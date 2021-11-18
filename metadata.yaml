@@ -1,0 +1,51 @@
+_repo: The-Collected-Works-of-Ambrose-Bierce-Volume-10-The-Opinionator_66576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/44231
+    - https://en.wikipedia.org/wiki/Ambrose_Bierce
+description: ''
+gutenberg_issued: '2021-10-20'
+identifiers:
+  gutenberg: '66576'
+language: en
+pgterms:marc904: https://archive.org/details/collectedworksof09bierrich
+pgterms:marc905: 20201214205516bierce
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :The Neale Publishing Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature'
+- !lcc 'PS'
+- !lcsh 'American essays'
+- GITenberg
+tableOfContents: 'The opinionator: The novel. On literary criticism. Stage illusion.
+  The matter of manner. On reading new books. Alphabêtes and border ruffians. To train
+  a writer. As to cartooning. The S. P. W.. Portraits of elderly authors. Wit and
+  humor. Word changes and slang. The ravages of Shakspearitis. England''s laureate.
+  Hall Caine on Hall Caining. Visions of the night -- The reviewer: Edwin Markham''s
+  poems. "The Kreutzer Sonata". Emma Frances Dawson. Marie Bashkirtseff. A poet and
+  his poem -- The controversialist: An insurrection of the peasantry. Montagues and
+  Capulets. A dead lion. The short story. Who are great?. Poetry and verse. Thought
+  and feeling -- The timorous reporter: The passing of satire. Some disadvantages
+  of genius. Our sacrosanct orthography. The author as an opportunity. On posthumous
+  renown. The crime of inattention. Fetishism. Our audible sisters. The new penology.
+  The nature of war. How to grow great. A war in the Orient. A just decision. The
+  lion''s den -- The march hare: A flourishing industry. The rural press. To "elevate
+  the stage". Pectolite. La boulangère. Advice to old men. A dubious vindication.
+  The Jamaican mongoose.'
+title: "The Collected Works of Ambrose Bierce, Volume 10\r\nThe Opinionator"
+url: http://www.gutenberg.org/ebooks/66576
